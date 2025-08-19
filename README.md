@@ -16,7 +16,7 @@ The program has been audited several times by different security firms.
 * May 5th, 2022 - [Neodyme](/.audits/2022-05-05.pdf)
 * Aug 21st, 2024 - [OtterSec](/.audits/2024-08-21.pdf)
 
-## Usage
+## Usag
 
 ***The new whirlpool SDKs are still in development and are not recommended for production use yet. Please see [Legacy](#legacy)***
 
