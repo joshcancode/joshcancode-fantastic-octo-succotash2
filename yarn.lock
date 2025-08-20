@@ -3143,7 +3143,7 @@ __metadata:
     "@solana/spl-token": "npm:^0.4.13"
     "@solana/web3.js": "npm:^1.95.2"
     "@types/mocha": "npm:^10.0.9"
-    "@types/mz": "npm:^2.7.3"
+    "@types/mz": "npm:^2.7.9"
     mz: "npm:^2.7.0"
     typescript: "npm:^5.6.3"
   languageName: unknown
@@ -4461,12 +4461,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mz@npm:^2.7.3":
-  version: 2.7.8
-  resolution: "@types/mz@npm:2.7.8"
+"@types/mz@npm:^2.7.9":
+  version: 2.7.9
+  resolution: "@types/mz@npm:2.7.9"
   dependencies:
     "@types/node": "npm:*"
-  checksum: 10c0/5d00871d016c9ebc09e32e6cfcc39bd5901d7731dbdb37af2c8b789d4a1212c418342723baa0fa0d66badcd7297ffdcab376af7ef52a2ce4c9197ea03686f8b6
+  checksum: 10c0/20f9a71c3e307333b2a06ec2cecf42384b3c9ec88022f143cd7400ca2230ea812012a0841e19b19bfe59941fb3f60c227898df6e6a35fc9a648161f5021bc4f8
   languageName: node
   linkType: hard
 
