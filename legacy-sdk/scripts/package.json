@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.9",
-    "@types/mz": "^2.7.3",
+    "@types/mz": "^2.7.9",
     "mz": "^2.7.0",
     "typescript": "^5.6.3"
   },
