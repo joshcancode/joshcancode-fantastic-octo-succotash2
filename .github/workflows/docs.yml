@@ -26,7 +26,7 @@ jobs:
           run: |
             yarn build docs/whirlpool --output-style static
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./docs/whirlpool/dist
       - name: Deploy Artifact
