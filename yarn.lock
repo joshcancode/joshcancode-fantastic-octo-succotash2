@@ -5139,7 +5139,7 @@ __metadata:
     "@orca-so/whirlpools-program": "npm:*"
     "@solana/web3.js": "npm:^1.98.4"
     kinobi: "npm:^0.22.0"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   peerDependencies:
     "@solana/web3.js": ^1.98.4
   languageName: unknown
@@ -5151,7 +5151,7 @@ __metadata:
   dependencies:
     "@orca-so/whirlpools-sdk": "npm:*"
     typedoc: "npm:^0.28.10"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -5169,7 +5169,7 @@ __metadata:
   dependencies:
     "@orca-so/whirlpools": "npm:*"
     typedoc: "npm:^0.28.10"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -5200,7 +5200,7 @@ __metadata:
   dependencies:
     eslint: "npm:^9.33.0"
     prettier: "npm:^3.6.2"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
     typescript-eslint: "npm:^8.40.0"
   languageName: unknown
   linkType: soft
@@ -5257,7 +5257,7 @@ __metadata:
     "@types/mocha": "npm:^10.0.9"
     "@types/mz": "npm:^2.7.9"
     mz: "npm:^2.7.0"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -5272,7 +5272,7 @@ __metadata:
     "@solana/web3.js": "npm:^1.98.4"
     decimal.js: "npm:^10.6.0"
     tiny-invariant: "npm:^1.3.1"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   peerDependencies:
     "@coral-xyz/anchor": ~0.31.1
     "@orca-so/common-sdk": 0.6.3
@@ -5287,7 +5287,7 @@ __metadata:
   resolution: "@orca-so/whirlpools@workspace:ts-sdk/whirlpool"
   dependencies:
     "@orca-so/whirlpools-client": "npm:*"
-    typescript: "npm:^5.6.3"
+    typescript: "npm:^5.9.2"
   languageName: unknown
   linkType: soft
 
@@ -17888,23 +17888,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.6.3":
-  version: 5.6.3
-  resolution: "typescript@npm:5.6.3"
+"typescript@npm:^5.9.2":
+  version: 5.9.2
+  resolution: "typescript@npm:5.9.2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/44f61d3fb15c35359bc60399cb8127c30bae554cd555b8e2b46d68fa79d680354b83320ad419ff1b81a0bdf324197b29affe6cc28988cd6a74d4ac60c94f9799
+  checksum: 10c0/cd635d50f02d6cf98ed42de2f76289701c1ec587a363369255f01ed15aaf22be0813226bff3c53e99d971f9b540e0b3cc7583dbe05faded49b1b0bed2f638a18
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^5.6.3#optional!builtin<compat/typescript>":
-  version: 5.6.3
-  resolution: "typescript@patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=74658d"
+"typescript@patch:typescript@npm%3A^5.9.2#optional!builtin<compat/typescript>":
+  version: 5.9.2
+  resolution: "typescript@patch:typescript@npm%3A5.9.2#optional!builtin<compat/typescript>::version=5.9.2&hash=74658d"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/ac8307bb06bbfd08ae7137da740769b7d8c3ee5943188743bb622c621f8ad61d244767480f90fbd840277fbf152d8932aa20c33f867dea1bb5e79b187ca1a92f
+  checksum: 10c0/66fc07779427a7c3fa97da0cf2e62595eaff2cea4594d45497d294bfa7cb514d164f0b6ce7a5121652cf44c0822af74e29ee579c771c405e002d1f23cf06bfde
   languageName: node
   linkType: hard
 
