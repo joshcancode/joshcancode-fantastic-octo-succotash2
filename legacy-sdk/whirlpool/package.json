@@ -8,7 +8,7 @@
   "peerDependencies": {
     "@coral-xyz/anchor": "~0.31.1",
     "@orca-so/common-sdk": "0.6.3",
-    "@solana/spl-token": "^0.4.13",
+    "@solana/spl-token": "^0.4.14",
     "@solana/web3.js": "^1.98.4",
     "decimal.js": "^10.6.0"
   },
@@ -19,7 +19,7 @@
     "@coral-xyz/anchor": "~0.31.1",
     "@orca-so/common-sdk": "0.6.3",
     "@orca-so/whirlpools-program": "*",
-    "@solana/spl-token": "^0.4.13",
+    "@solana/spl-token": "^0.4.14",
     "@solana/web3.js": "^1.98.4",
     "decimal.js": "^10.6.0",
     "typescript": "^5.9.3"

@@ -5252,7 +5252,7 @@ __metadata:
   resolution: "@orca-so/whirlpools-scripts@workspace:legacy-sdk/scripts"
   dependencies:
     "@project-serum/anchor": "npm:~0.26.0"
-    "@solana/spl-token": "npm:^0.4.13"
+    "@solana/spl-token": "npm:^0.4.14"
     "@solana/web3.js": "npm:^1.98.4"
     "@types/mocha": "npm:^10.0.10"
     "@types/mz": "npm:^2.7.9"
@@ -5268,7 +5268,7 @@ __metadata:
     "@coral-xyz/anchor": "npm:~0.31.1"
     "@orca-so/common-sdk": "npm:0.6.3"
     "@orca-so/whirlpools-program": "npm:*"
-    "@solana/spl-token": "npm:^0.4.13"
+    "@solana/spl-token": "npm:^0.4.14"
     "@solana/web3.js": "npm:^1.98.4"
     decimal.js: "npm:^10.6.0"
     tiny-invariant: "npm:^1.3.1"
@@ -5276,7 +5276,7 @@ __metadata:
   peerDependencies:
     "@coral-xyz/anchor": ~0.31.1
     "@orca-so/common-sdk": 0.6.3
-    "@solana/spl-token": ^0.4.13
+    "@solana/spl-token": ^0.4.14
     "@solana/web3.js": ^1.98.4
     decimal.js: ^10.6.0
   languageName: unknown
@@ -5665,9 +5665,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@solana/spl-token@npm:^0.4.13":
-  version: 0.4.13
-  resolution: "@solana/spl-token@npm:0.4.13"
+"@solana/spl-token@npm:^0.4.14":
+  version: 0.4.14
+  resolution: "@solana/spl-token@npm:0.4.14"
   dependencies:
     "@solana/buffer-layout": "npm:^4.0.0"
     "@solana/buffer-layout-utils": "npm:^0.2.0"
@@ -5676,7 +5676,7 @@ __metadata:
     buffer: "npm:^6.0.3"
   peerDependencies:
     "@solana/web3.js": ^1.95.5
-  checksum: 10c0/001c3c347e66fe20a1a631679d81bad26d9cf174f21fe8817a571524626d755347e48696917c49f9a457c7227f82ec1bda4aa5d1d252f912e764a3dce5d89e4b
+  checksum: 10c0/aaa0b03859c45a8e917e14a8d0703de13ca16cfab31b72685ef148dcd2dc9a6fd37ac8842b1ca9609aea8407d51bf98e69bc7a4f9e2dc86f440b5bd8c0c70bfe
   languageName: node
   linkType: hard
 
