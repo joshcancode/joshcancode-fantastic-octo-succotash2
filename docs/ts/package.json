@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@orca-so/whirlpools": "*",
-    "typedoc": "^0.28.10",
+    "typedoc": "^0.28.13",
     "typescript": "^5.9.3"
   }
 }
